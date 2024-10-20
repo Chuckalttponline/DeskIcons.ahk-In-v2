@@ -1,14 +1,14 @@
+; "DeskIcons v2.ahk"
+; Updated to v2 by Chuck Or my real name that you don't know about Charlie.
+; Revision Date : 11:13 AM 10/19/2024 
+; 
+
 ; "DeskIcons.ahk"
 ; Updated to be x86 and x64 compatible by Joe DF
 ; Revision Date : 22:13 2014/05/09
 ; From : Rapte_Of_Suzaku
 ; http://www.autohotkey.com/board/topic/60982-deskicons-getset-desktop-icon-positions/
 
-
-; "DeskIcons v2.ahk"
-; Updated to v2 by Chuck Or my real name that you don't know about Charlie.
-; Revision Date : 11:13 AM 10/19/2024 
-; 
 
 /*
     Save and Load desktop icon positions
