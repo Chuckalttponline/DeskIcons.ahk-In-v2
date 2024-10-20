@@ -10,19 +10,21 @@
 ; http://www.autohotkey.com/board/topic/60982-deskicons-getset-desktop-icon-positions/
 
 
-/*
-    Save and Load desktop icon positions
-    based on save/load desktop icon positions by temp01 (http://www.autohotkey.com/forum/viewtopic.php?t=49714)
+
+;    Save and Load desktop icon positions
+;    based on save/load desktop icon positions by temp01 (http://www.autohotkey.com/forum/viewtopic.php?t=49714)
     
-    Example:
+ ;   Example:
+ ```
         ; save positions
         coords := DeskIcons()
         MsgBox("now move the icons around yourself")
         ; load positions
         DeskIcons(coords)
+```
     
-    Plans:
-        handle more settings (icon sizes, sort order, etc)
-            - http://msdn.microsoft.com/en-us/library/ff485961%28v=VS.85%29.aspx
+ ;   Plans:
+  ;      handle more settings (icon sizes, sort order, etc)
+   ;         - http://msdn.microsoft.com/en-us/library/ff485961%28v=VS.85%29.aspx
     
-*/
+
